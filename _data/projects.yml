@@ -2,8 +2,8 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # cosmerce
-- project: Cosmerce
+- project: Inkbeetle Games
   role: Cofounder & Developer
   duration: 2018 &mdash; Present
   # url: "#"
-  description: Space commerce simulation game focused on the exploitation of galactic resources.  Unreleased and still in development.
+  description: <ul><li><b>Cosmerce</b> - Space commerce simulation game focused on the exploitation of galactic resources.  Unreleased and still in development.</li><li><b>Houdini</b> - Android Java mobile racing game with a unique focus on each vehicle being entirely modular and its parts interchangable without many restrictions.  Creativity within the laws of physics rule the gameplay.</li></ul>
